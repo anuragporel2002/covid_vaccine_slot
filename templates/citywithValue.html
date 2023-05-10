@@ -1,0 +1,6 @@
+<select name="city" id="city" class="custom-select" style="width: 400px;">
+    <option value="">Select</option>
+    {% for city in cities %}
+    <option value="{{ city.name }}">{{ city.name }}</option>
+    {% endfor %}
+</select>

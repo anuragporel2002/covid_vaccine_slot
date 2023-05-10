@@ -1,0 +1,6 @@
+<select name="centre" id="centre" class="custom-select" style="width: 400px;">
+    <option value="">Select</option>
+    {% for centre in centres %}
+    <option value="{{ centre.name }}">{{ centre.name }} ({{centre.working_hour_start}}-{{centre.working_hour_end}})</option>
+    {% endfor %}
+  </select>
