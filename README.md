@@ -54,7 +54,8 @@ Admin Page
 ![image](https://github.com/anuragporel2002/covid_vaccine_slot/assets/61242021/79eb782a-e9d8-4083-8f45-13a4b07fb8ad)
 
 # Admin Page
-The standard django admin page has been used as admin page
+The standard django admin page has been used as admin page. Use the url given below to access it directly:
+https://anurag007.pythonanywhere.com/admin
 
 # UI
-The UI heavily use bootstrap for styling along with custom CSS. 
+The UI heavily use bootstrap for styling along with custom CSS. The image used in background is taken from unsplash.com
