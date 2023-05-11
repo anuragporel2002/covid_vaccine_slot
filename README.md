@@ -27,7 +27,7 @@ The main components of this project are:
 
 ## Hosting
 
-This project is deployed with pythonanywhere. You can visit the hosted website at http://anurag007.pythonanywhere.com/
+This project is deployed with pythonanywhere. You can visit the hosted website at https://anurag007.pythonanywhere.com/
 
 ## Admin Credentials
 
